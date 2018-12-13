@@ -1,0 +1,27 @@
+{
+  "name": "j4db-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "mongoose": "^5.3.16",
+    "standard-error": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutsourceITCR/j4db-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OutsourceITCR/j4db-controller/issues"
+  },
+  "homepage": "https://github.com/OutsourceITCR/j4db-controller#readme"
+}
