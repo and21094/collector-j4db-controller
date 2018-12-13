@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
+    "bluebird": "^3.5.3",
     "mongoose": "^5.3.16",
     "standard-error": "^1.1.0"
   },

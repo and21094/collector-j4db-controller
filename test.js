@@ -4,8 +4,9 @@ const Db = require('./lib/db')
 
 const db = new Db()
 
-db.user.save({
-    name: 'esteban 2',
+db.users.save({
+    name: 'esteban 3',
     email: 'estcas@gmail.com',
     phone: '83636383'
 })
+.then((response) => console.log('response', response))
